@@ -416,9 +416,9 @@ const ultimateData = {
                     author: 'Steve Jobs',
                 },
             ],
-            darkMode: false,
+            darkMode: true,
             isBookmarkFilterRequired: false,
-            totalQuestions: 456,
+            totalQuestions: 538,
             completedQuestions: 0,
         },
         content: [
@@ -7945,6 +7945,1291 @@ const ultimateData = {
                     },
                 ],
             },
+            {
+                contentPath: '/database_management_system',
+                contentHeading: 'DBMS',
+                contentSubHeading: 'Handily crafted and picked interview questions of DBMS',
+                contentUserNotes: '',
+                contentTotalQuestions: 29,
+                contentCompletedQuestions: 0,
+                categoryList: [
+                    {
+                        categoryId: 1,
+                        categoryName: 'Make DBMS Notes(Click on notes icon) and revise before interviews',
+                        categoryTotalQuestions: 29,
+                        categoryCompletedQuestions: 0,
+                        questionList: [
+                            {
+                                questionHeading:'What is DBMS ? Mention advantages..',
+                                questionLink: 'https://pipeline.zoominfo.com/operations/6-benefits-of-using-database-management-systems-dbms#:~:text=A%20database%20management%20system%20is,and%20locked%20to%20prevent%20conflicts.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 0,
+                                questionId:'What-is-DBMS--Mention-advantages',
+                            }
+                            ,
+                          
+                            {
+                                questionHeading:'What is Database?',
+                                questionLink: 'https://www.javatpoint.com/what-is-database',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 1,
+                                questionId:'What-is-Database',
+                            },
+                          
+                            {
+                                questionHeading:'What is a database system?',
+                                questionLink: 'https://www.javatpoint.com/dbms-tutorial',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 2,
+                                questionId:'What-is-a-database-system',
+                            },
+                          
+                            {
+                                questionHeading:'What is RDBMS ? Properties..',
+                                questionLink: 'https://www.geeksforgeeks.org/rdbms-full-form/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 3,
+                                questionId:'What-is-RDBMS--Properties',
+                            },
+                          
+                            {
+                                questionHeading:'Types of database languages',
+                                questionLink: 'https://www.javatpoint.com/dbms-language',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 4,
+                                questionId:'Types-of-database-languages',
+                            },
+                          
+                            {
+                                questionHeading:'ACID properties (VVVVV IMP)',
+                                questionLink: 'https://www.geeksforgeeks.org/acid-properties-in-dbms/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 5,
+                                questionId:'ACID-properties-(VVVVV-IMP)',
+                            },
+                          
+                            {
+                                questionHeading:'Difference between vertical and horizontal scaling',
+                                questionLink: 'https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 6,
+                                questionId:'Difference-between-vertical-and-horizontal-scaling',
+                            },
+                          
+                            {
+                                questionHeading:'What is sharding',
+                                questionLink: 'https://www.geeksforgeeks.org/what-is-sharding/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 7,
+                                questionId:'What-is-sharding',
+                            },
+                          
+                            {
+                                questionHeading:'Keys in DBMS',
+                                questionLink: 'https://www.javatpoint.com/dbms-keys',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 8,
+                                questionId:'Keys-in-DBMS',
+                            },
+                          
+                            {
+                                questionHeading:'Types of relationship',
+                                questionLink: 'https://www.javatpoint.com/types-of-relationship-in-database-table',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 9,
+                                questionId:'Types-of-relationship',
+                            },
+                          
+                            {
+                                questionHeading:'Data abstraction in DBMS, three levels of it',
+                                questionLink: 'https://www.tutorialspoint.com/what-is-data-abstraction-in-dbms',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 10,
+                                questionId:'Data-abstraction-in-DBMS--three-levels-of-it',
+                            },
+                          
+                            {
+                                questionHeading:'Indexing in DBMS',
+                                questionLink: 'https://www.javatpoint.com/indexing-in-dbms',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 11,
+                                questionId:'Indexing-in-DBMS',
+                            },
+                          
+                            {
+                                questionHeading:'What is DDL (Data Definition Language)',
+                                questionLink: 'https://www.techopedia.com/definition/1175/data-definition-language-ddl',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 12,
+                                questionId:'What-is-DDL-(Data-Definition-Language)',
+                            },
+                          
+                            {
+                                questionHeading:'What is DML (Data Manipulation Language)',
+                                questionLink: 'https://www.techopedia.com/definition/1179/data-manipulation-language-dml',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 13,
+                                questionId:'What-is-DML-(Data-Manipulation-Language)',
+                            },
+                          
+                            {
+                                questionHeading:'What is normalization ? Types of normalization.',
+                                questionLink: 'https://www.javatpoint.com/dbms-normalization',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 14,
+                                questionId:'What-is-normalization--Types-of-normalization',
+                            },
+                          
+                            {
+                                questionHeading:'What is denormalization ?',
+                                questionLink: 'https://www.geeksforgeeks.org/denormalization-in-databases/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 15,
+                                questionId:'What-is-denormalization-',
+                            },
+                          
+                            {
+                                questionHeading:'What is functional dependency ?',
+                                questionLink: 'https://www.javatpoint.com/dbms-functional-dependency',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 16,
+                                questionId:'What-is-functional-dependency-',
+                            },
+                          
+                            {
+                                questionHeading:'E-R Model ?',
+                                questionLink: 'https://www.javatpoint.com/dbms-er-model-concept',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 17,
+                                questionId:'E-R-Model-',
+                            },
+                          
+                            {
+                                questionHeading:'Conflict Serializability in DBMS ..',
+                                questionLink: 'https://www.geeksforgeeks.org/conflict-serializability-in-dbms/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 18,
+                                questionId:'Conflict-Serializability-in-DBMS-',
+                            },
+                          
+                            {
+                                questionHeading:'What is CCP ? (Concurrency Control Protocols)',
+                                questionLink: 'https://www.javatpoint.com/dbms-concurrency-control#:~:text=The%20concurrency%20control%20protocols%20ensure,execution%20of%20the%20database%20transactions.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 19,
+                                questionId:'What-is-CCP--(Concurrency-Control-Protocols)',
+                            },
+                          
+                            {
+                                questionHeading:'Entity, Entity Type, Entity Set, Weak Entity Set..',
+                                questionLink: 'https://afteracademy.com/blog/what-is-an-entity-entity-type-and-entity-set',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 20,
+                                questionId:'Entity--Entity-Type--Entity-Set--Weak-Entity-Set',
+                            },
+                          
+                            {
+                                questionHeading:'What are SQL commands ? Types of them..',
+                                questionLink: 'https://www.javatpoint.com/dbms-sql-command',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 21,
+                                questionId:'What-are-SQL-commands--Types-of-them',
+                            },
+                          
+                            {
+                                questionHeading:'Nested Queries in SQL ?',
+                                questionLink: 'https://www.geeksforgeeks.org/nested-queries-in-sql/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 22,
+                                questionId:'Nested-Queries-in-SQL-',
+                            },
+                          
+                            {
+                                questionHeading:'What is JOIN .. Explain types of JOINs',
+                                questionLink: 'https://www.w3schools.com/sql/sql_join.asp#:~:text=Different%20Types%20of%20SQL%20JOINs&text=(INNER)%20JOIN%20%3A%20Returns%20records,records%20from%20the%20left%20table',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 23,
+                                questionId:'What-is-JOIN--Explain-types-of-JOINs',
+                            },
+                          
+                            {
+                                questionHeading:'Inner and Outer Join',
+                                questionLink: 'https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/#:~:text=The%20biggest%20difference%20between%20an,table%20in%20the%20resulting%20table.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 24,
+                                questionId:'Inner-and-Outer-Join',
+                            },
+                          
+                            {
+                                questionHeading:'Diff between 2 tier and 3 tier architecture',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 25,
+                                questionId:'Diff-between-2-tier-and-3-tier-architecture',
+                            },
+                          
+                            {
+                                questionHeading:'Diff between TRUNCATE and DELETE command ..',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-delete-and-truncate/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 26,
+                                questionId:'Diff-between-TRUNCATE-and-DELETE-command-',
+                            },
+                          
+                            {
+                                questionHeading:'Difference between Intension and Extension in a DataBase',
+                                questionLink: 'https://takeuforward.org/dbms/difference-between-intension-and-extension-in-a-database/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 27,
+                                questionId:'Difference-between-Intension-and-Extension-in-a-DataBase',
+                            },
+                          
+                            {
+                                questionHeading:'Difference between share lock and exclusive lock, definition of lock',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-shared-lock-and-exclusive-lock/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 28,
+                                questionId:'Difference-between-share-lock-and-exclusive-lock--definition-of-lock',
+                            },
+                        ],
+                    },
+                ],
+            }
+            ,
+            {
+                contentPath: '/computer_network',
+                contentHeading: 'Computer Networks',
+                contentSubHeading: 'Handily crafted and picked interview questions of CN',
+                contentUserNotes: '',
+                contentTotalQuestions: 25,
+                contentCompletedQuestions: 0,
+                categoryList: [
+                    {
+                        categoryId: 1,
+                        categoryName: 'Make CN Notes(Click on notes icon) and revise before interviews',
+                        categoryTotalQuestions: 25,
+                        categoryCompletedQuestions: 0,
+                        questionList: [
+                            {
+                                questionHeading:'Define network',
+                                questionLink: 'https://www.ionos.com/digitalguide/server/know-how/what-is-a-network/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 0,
+                                questionId:'Define-network',
+                            },
+                          
+                            {
+                                questionHeading:'What do you mean by network topology, and explain types of them',
+                                questionLink: 'https://www.techopedia.com/definition/5538/network-topology#:~:text=Network%20topology%20refers%20to%20the,network%20topologies%3A%20physical%20and%20logical.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 1,
+                                questionId:'What-do-you-mean-by-network-topology--and-explain-types-of-them',
+                            },
+                          
+                            {
+                                questionHeading:'Define bandwidth, node and link ?',
+                                questionLink: 'https://takeuforward.org/computer-network/define-bandwidth-node-and-link/#:~:text=Network%20bandwidth%20is%20a%20measure,a%20given%20amount%20of%20time.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 2,
+                                questionId:'Define-bandwidth--node-and-link-',
+                            },
+                          
+                            {
+                                questionHeading:'Explain TCP model ..',
+                                questionLink: 'https://www.geeksforgeeks.org/tcp-ip-model/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 3,
+                                questionId:'Explain-TCP-model-',
+                            },
+                          
+                            {
+                                questionHeading:'Layers of OSI model',
+                                questionLink: 'https://www.imperva.com/learn/application-security/osi-model/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 4,
+                                questionId:'Layers-of-OSI-model',
+                            },
+                          
+                            {
+                                questionHeading:'Significance of Data Link Layer',
+                                questionLink: 'https://www.geeksforgeeks.org/data-link-layer/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 5,
+                                questionId:'Significance-of-Data-Link-Layer',
+                            },
+                          
+                            {
+                                questionHeading:'Define gateway, difference between gateway and router ..',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-router-and-gateway/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 6,
+                                questionId:'Define-gateway--difference-between-gateway-and-router-',
+                            },
+                          
+                            {
+                                questionHeading:'What does ping command do ?',
+                                questionLink: 'https://www.techtarget.com/searchnetworking/definition/ping#:~:text=Ping%20works%20by%20sending%20an,sending%20an%20echo%20reply%20packet.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 7,
+                                questionId:'What-does-ping-command-do-',
+                            },
+                          
+                            {
+                                questionHeading:'What is DNS, DNS forwarder, NIC, ?',
+                                questionLink: 'https://www.geeksforgeeks.org/domain-name-system-dns-in-application-layer/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 8,
+                                questionId:'What-is-DNS--DNS-forwarder--NIC--',
+                            },
+                          
+                            {
+                                questionHeading:'What is MAC address ?',
+                                questionLink: 'https://www.javatpoint.com/what-is-mac-address',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 9,
+                                questionId:'What-is-MAC-address-',
+                            },
+                          
+                            {
+                                questionHeading:'What is IP address, private IP address, public IP address, APIPA ?',
+                                questionLink: 'https://www.avast.com/c-ip-address-public-vs-private#:~:text=A%20public%20IP%20address%20identifies,devices%20within%20that%20same%20network.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 10,
+                                questionId:'What-is-IP-address--private-IP-address--public-IP-address--APIPA-',
+                            },
+                          
+                            {
+                                questionHeading:'Difference between IPv4 and IPv6',
+                                questionLink: 'https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 11,
+                                questionId:'Difference-between-IPv4-and-IPv6',
+                            },
+                          
+                            {
+                                questionHeading:'What is subnet ?',
+                                questionLink: 'https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 12,
+                                questionId:'What-is-subnet-',
+                            },
+                          
+                            {
+                                questionHeading:'Firewalls',
+                                questionLink: 'https://www.checkpoint.com/cyber-hub/network-security/what-is-firewall/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 13,
+                                questionId:'Firewalls',
+                            },
+                          
+                            {
+                                questionHeading:'Different type of delays',
+                                questionLink: 'https://www.geeksforgeeks.org/delays-in-computer-network/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 14,
+                                questionId:'Different-type-of-delays',
+                            },
+                          
+                            {
+                                questionHeading:'3 way handshaking',
+                                questionLink: 'https://www.geeksforgeeks.org/tcp-3-way-handshake-process/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 15,
+                                questionId:'3-way-handshaking',
+                            },
+                          
+                            {
+                                questionHeading:'Server-side load balancer',
+                                questionLink: 'https://avinetworks.com/glossary/server-load-balancer/#:~:text=Server%20Load%20Balancing%20(SLB)%20is,server%20load%20balancing%20(GSLB).',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 16,
+                                questionId:'Server-side-load-balancer',
+                            },
+                          
+                            {
+                                questionHeading:'RSA Algorithm',
+                                questionLink: 'https://www.javatpoint.com/rsa-encryption-algorithm',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 17,
+                                questionId:'RSA-Algorithm',
+                            },
+                          
+                            {
+                                questionHeading:'What is HTTP and HTTPS protocol ?',
+                                questionLink: 'https://www.javatpoint.com/http-vs-https#:~:text=The%20HTTP%20protocol%20stands%20for,for%20Hypertext%20Transfer%20Protocol%20Secure.&text=The%20HTTP%20protocol%20is%20not,the%20client%20to%20the%20server.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 18,
+                                questionId:'What-is-HTTP-and-HTTPS-protocol-',
+                            },
+                          
+                            {
+                                questionHeading:'What is SMTP protocol ?',
+                                questionLink: 'https://www.javatpoint.com/simple-mail-transfer-protocol',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 19,
+                                questionId:'What-is-SMTP-protocol-',
+                            },
+                          
+                            {
+                                questionHeading:'TCP and UDP protocol, prepare differences',
+                                questionLink: 'https://www.lifesize.com/en/blog/tcp-vs-udp/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 20,
+                                questionId:'TCP-and-UDP-protocol--prepare-differences',
+                            },
+                          
+                            {
+                                questionHeading:'What happens when you enter “google.com” (very very famous question)',
+                                questionLink: 'https://www.linkedin.com/pulse/what-happens-when-you-type-googlecom-any-other-url-buitrago-vargas',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 21,
+                                questionId:'What-happens-when-you-enter-“googlecom”-(very-very-famous-question)',
+                            },
+                          
+                            {
+                                questionHeading:'Hub vs Switch',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-hub-and-switch/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 22,
+                                questionId:'Hub-vs-Switch',
+                            },
+                          
+                            {
+                                questionHeading:'VPN, advantages and disadvantages of it',
+                                questionLink: 'https://www.cdw.com/content/cdw/en/articles/security/advantages-and-disadvantages-of-vpn.html#:~:text=While%20not%20always%20ideal%2C%20the,are%20easily%20enabled%20and%20disabled.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 23,
+                                questionId:'VPN--advantages-and-disadvantages-of-it',
+                            },
+                          
+                            {
+                                questionHeading:'LAN',
+                                questionLink: 'https://www.cisco.com/c/en_in/products/switches/what-is-a-lan-local-area-network.html',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 24,
+                                questionId:'LAN',
+                            },
+                           
+                        ],
+                    },
+                ],
+            },
+            {
+                contentPath: '/operating_systems',
+                contentHeading: 'Operating Systems',
+                contentSubHeading: 'Handily crafted and picked interview questions of OS',
+                contentUserNotes: '',
+                contentTotalQuestions: 28,
+                contentCompletedQuestions: 0,
+                categoryList: [
+                    {
+                        categoryId: 1,
+                        categoryName: 'Make OS Notes(Click on notes icon) and revise before interviews',
+                        categoryTotalQuestions: 28,
+                        categoryCompletedQuestions: 0,
+                        questionList: [
+                            {
+                                questionHeading:'What is the main purpose of an operating system? Discuss different types?',
+                                questionLink: 'https://www.geeksforgeeks.org/types-of-operating-systems/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 0,
+                                questionId:'What-is-the-main-purpose-of-an-operating-system-Discuss-different-types',
+                            },
+                
+                            {
+                                questionHeading:'What is a socket, kernel and monolithic kernel ?',
+                                questionLink: 'https://takeuforward.org/operating-system/what-are-a-socket-kernel-and-monolithic-kernel/#:~:text=Sockets%20are%20used%20for%20communication,packed%20in%20a%20single%20level.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 1,
+                                questionId:'What-is-a-socket--kernel-and-monolithic-kernel-',
+                            },
+                
+                            {
+                                questionHeading:'Difference between process and program and thread? Different types of process.',
+                                questionLink: 'https://takeuforward.org/operating-system/difference-between-process-program-and-thread-different-types/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 2,
+                                questionId:'Difference-between-process-and-program-and-thread-Different-types-of-process',
+                            },
+                
+                            {
+                                questionHeading:'Define virtual memory, thrashing, threads.',
+                                questionLink: 'https://takeuforward.org/operating-system/define-virtual-memory-thrashing-and-threads/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 3,
+                                questionId:'Define-virtual-memory--thrashing--threads',
+                            },
+                
+                            {
+                                questionHeading:'What is RAID ? Different types.',
+                                questionLink: 'https://www.javatpoint.com/what-is-raid',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 4,
+                                questionId:'What-is-RAID--Different-types',
+                            },
+                
+                            {
+                                questionHeading:'What is a deadlock? Different conditions to achieve a deadlock.',
+                                questionLink: 'https://www.geeksforgeeks.org/conditions-for-deadlock-in-operating-system/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 5,
+                                questionId:'What-is-a-deadlock-Different-conditions-to-achieve-a-deadlock',
+                            },
+                
+                            {
+                                questionHeading:'What is fragmentation? Types of fragmentation.',
+                                questionLink: 'https://www.javatpoint.com/fragmentation-in-operating-system',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 6,
+                                questionId:'What-is-fragmentation-Types-of-fragmentation',
+                            },
+                
+                            {
+                                questionHeading:'What is spooling ?',
+                                questionLink: 'https://www.javatpoint.com/spooling-in-operating-system',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 7,
+                                questionId:'What-is-spooling-',
+                            },
+                
+                            {
+                                questionHeading:'What is semaphore and mutex (Differences might be asked)? Define Binary semaphore.',
+                                questionLink: 'https://www.tutorialspoint.com/mutex-vs-semaphore#:~:text=A%20Mutex%20is%20different%20than,be%20used%20as%20a%20semaphore.',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 8,
+                                questionId:'What-is-semaphore-and-mutex-(Differences-might-be-asked)-Define-Binary-semaphore',
+                            },
+                
+                            {
+                                questionHeading:'Belady’s Anomaly',
+                                questionLink: 'https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 9,
+                                questionId:'Belady-s-Anomaly',
+                            },
+                
+                            {
+                                questionHeading:'Starving and Aging in OS',
+                                questionLink: 'https://www.geeksforgeeks.org/starvation-and-aging-in-operating-systems/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 10,
+                                questionId:'Starving-and-Aging-in-OS',
+                            },
+                
+                            {
+                                questionHeading:'Why does trashing occur?',
+                                questionLink: 'https://www.techopedia.com/definition/4766/thrashing',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 11,
+                                questionId:'Why-does-trashing-occur',
+                            },
+                
+                            {
+                                questionHeading:'What is paging and why do we need it?',
+                                questionLink: 'https://www.careerride.com/os-paging.aspx',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 12,
+                                questionId:'What-is-paging-and-why-do-we-need-it',
+                            },
+                
+                            {
+                                questionHeading:'Demand Paging, Segmentation',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-demand-paging-and-segmentation/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 13,
+                                questionId:'Demand-Paging--Segmentation',
+                            },
+                
+                            {
+                                questionHeading:'Real Time Operating System, types of RTOS.',
+                                questionLink: 'https://www.geeksforgeeks.org/real-time-operating-system-rtos/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 14,
+                                questionId:'Real-Time-Operating-System--types-of-RTOS',
+                            },
+                
+                            {
+                                questionHeading:'Difference between main memory and secondary memory.',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-primary-and-secondary-memory/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 15,
+                                questionId:'Difference-between-main-memory-and-secondary-memory',
+                            },
+                
+                            {
+                                questionHeading:'Dynamic Binding',
+                                questionLink: 'https://www.geeksforgeeks.org/address-binding-and-its-types/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 16,
+                                questionId:'Dynamic-Binding',
+                            },
+                
+                            {
+                                questionHeading:'FCFS Scheduling',
+                                questionLink: 'https://www.javatpoint.com/os-fcfs-scheduling',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 17,
+                                questionId:'FCFS-Scheduling',
+                            },
+                
+                            {
+                                questionHeading:'SJF Scheduling',
+                                questionLink: 'https://www.javatpoint.com/os-sjf-scheduling',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 18,
+                                questionId:'SJF-Scheduling',
+                            },
+                
+                            {
+                                questionHeading:'SRTF Scheduling',
+                                questionLink: 'https://www.javatpoint.com/os-srtf-scheduling-algorithm',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 19,
+                                questionId:'SRTF-Scheduling',
+                            },
+                
+                            {
+                                questionHeading:'LRTF Scheduling',
+                                questionLink: 'https://www.geeksforgeeks.org/longest-remaining-time-first-lrtf-cpu-scheduling-algorithm/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 20,
+                                questionId:'LRTF-Scheduling',
+                            },
+                
+                            {
+                                questionHeading:'Priority Scheduling',
+                                questionLink: 'https://www.guru99.com/priority-scheduling-program.html',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 21,
+                                questionId:'Priority-Scheduling',
+                            },
+                
+                            {
+                                questionHeading:'Round Robin Scheduling',
+                                questionLink: 'https://www.javatpoint.com/os-round-robin-scheduling-algorithm',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 22,
+                                questionId:'Round-Robin-Scheduling',
+                            },
+                
+                            {
+                                questionHeading:'Producer Consumer Problem',
+                                questionLink: 'https://www.javatpoint.com/producer-consumer-problem-in-os',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 23,
+                                questionId:'Producer-Consumer-Problem',
+                            },
+                
+                            {
+                                questionHeading:'Banker’s Algorithm',
+                                questionLink: 'https://www.javatpoint.com/bankers-algorithm-in-operating-system',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 24,
+                                questionId:'Banker-s-Algorithm',
+                            },
+                
+                            {
+                                questionHeading:'Explain Cache',
+                                questionLink: 'https://www.geeksforgeeks.org/cache-memory-in-computer-organization/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 25,
+                                questionId:'Explain-Cache',
+                            },
+                
+                            {
+                                questionHeading:'Diff between direct mapping and associative mapping',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-direct-mapping-associative-mapping-set-associative-mapping/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 26,
+                                questionId:'Diff-between-direct-mapping-and-associative-mapping',
+                            },
+                
+                            {
+                                questionHeading:'Diff between multitasking and multiprocessing',
+                                questionLink: 'https://www.geeksforgeeks.org/difference-between-multitasking-and-multiprocessing/',
+                                gfgLink:
+                                    '',
+                                leetCodeLink:
+                                    '',
+                                youTubeLink: '',
+                                isDone: false,
+                                isBookmarked: false,
+                                userNotes: '',
+                                questionIndex: 27,
+                                questionId:'Diff-between-multitasking-and-multiprocessing',
+                            },
+                        ],
+                    },
+                ],
+            },
+
         ],
     },
 }
