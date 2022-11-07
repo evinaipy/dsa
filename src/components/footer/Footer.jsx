@@ -5,7 +5,7 @@ const Footer = () => {
         'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/'
     const originalAuthorLinkedInLink = 'https://in.linkedin.com/in/rajarvp'
     const gitHubLink = '/'
-    const aboutLink = '../../DsaGuru.html'
+   
     return (
         <Flex
             className={'footer'}
@@ -20,7 +20,7 @@ const Footer = () => {
             userSelect={'none'}
         >
             <Link
-                href={'/about.html'}
+                href={'/DSAGuru.html'}
                 
                 _hover={{}}
                 display={{ base: 'none', md: 'flex' }}

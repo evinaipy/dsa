@@ -1,4 +1,5 @@
 https://dsa-guru.com
+https://www.dsa-guru.com/about.html
 https://dsa-guru.com/array
 https://dsa-guru.com/basics
 https://dsa-guru.com/binary_search
