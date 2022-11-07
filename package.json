@@ -1,6 +1,6 @@
 {
   "name": "dsaguru",
-  "homepage": "https://www.dsa-guru.com/DsaGuru.html",
+  "homepage": ".",
   "private": true,
   "version": "0.1.0",
   "type": "module",
