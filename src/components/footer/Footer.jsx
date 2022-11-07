@@ -1,5 +1,7 @@
 import { Flex, Link, Text } from '@chakra-ui/react'
-
+const openInNewTab = url => {
+    window.open(url, '_blank', 'noopener,noreferrer');
+  };
 const Footer = () => {
     const originalDsaSheetLink =
         'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/'
@@ -19,13 +21,8 @@ const Footer = () => {
             justifyContent={'space-between'}
             userSelect={'none'}
         >
-            <Link
-                href={'../../about.html'}
-                
-                _hover={{}}
-                display={{ base: 'none', md: 'flex' }}
-            >
-            <Text
+           <button onClick={() => openInNewTab('about.html')}>
+            <Text 
                 fontWeight={'1g'}
                 fontSize={'xs'}
                 fontFamily={'customFamily'}
@@ -42,7 +39,8 @@ const Footer = () => {
                 <b>About 🚀</b>
                 
             </Text>
-            </Link>
+            </button>
+            
           
             <Link
                 href={gitHubLink}
