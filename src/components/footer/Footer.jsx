@@ -5,13 +5,13 @@ const Footer = () => {
         'https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/'
     const originalAuthorLinkedInLink = 'https://in.linkedin.com/in/rajarvp'
     const gitHubLink = '/'
-
+    const aboutLink = '../../DsaGuru.html'
     return (
         <Flex
             className={'footer'}
             bg={'footerBg'}
             w={'100vw'}
-            px={4}
+            px={5}
             py={1}
             flexGrow={'0'}
             flexDirection={'row'}
@@ -19,23 +19,31 @@ const Footer = () => {
             justifyContent={'space-between'}
             userSelect={'none'}
         >
+            <Link
+                href={aboutLink}
+                
+                _hover={{}}
+                display={{ base: 'none', md: 'flex' }}
+            >
             <Text
-                fontWeight={'md'}
+                fontWeight={'1g'}
                 fontSize={'xs'}
                 fontFamily={'customFamily'}
                 fontStyle={'normal'}
-                color={'secondaryColor'}
+                color={'defaultColor'}
                 textAlign={'center'}
+                w={'fit-content'}
+                h={'fit-content'}
+                px={4}
+                py={1}
+                bg={'secondaryColor'}
+                borderRadius={'16px'}
             >
-                A Personalised web-based daily DSA progress tracker.{' '}
-                {
-                }{' '}
-                {' '}
-                {
-                }
+                <b>About 🚀</b>
                 
             </Text>
-
+            </Link>
+          
             <Link
                 href={gitHubLink}
                 
@@ -55,7 +63,7 @@ const Footer = () => {
                     fontStyle={'normal'}
                     color={'defaultColor'}
                 >
-                    Home 👨‍💻
+                    <b>Home 👨‍💻</b>
                 </Text>
             </Link>
         </Flex>

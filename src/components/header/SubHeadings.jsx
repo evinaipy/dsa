@@ -5,7 +5,7 @@ const SubHeadings = ({ data, selectedContentIndex, showBreadCrumbs }) => {
     const isDarkMode = data.data.header.darkMode
     const contentHeading =
         data.data.content[selectedContentIndex].contentHeading
-    const subtitle = 'Your Gateway to crack FAANG Companies. Practice coding, prepare for interviews, and get hired🎯'
+    const subtitle = 'Curated list of DSA questions very handily picked and crafted to crack FAANG Companies. Practice coding, prepare for interviews, and get hired🎯'
     const motivationalQuotes = data.data.header.motivationalQuotes
     const randomQuoteIndex = Math.floor(
         Math.random() * motivationalQuotes.length - 1
