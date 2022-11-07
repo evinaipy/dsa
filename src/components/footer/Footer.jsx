@@ -20,7 +20,7 @@ const Footer = () => {
             userSelect={'none'}
         >
             <Link
-                href={aboutLink}
+                href={'../public/about.html'}
                 
                 _hover={{}}
                 display={{ base: 'none', md: 'flex' }}
