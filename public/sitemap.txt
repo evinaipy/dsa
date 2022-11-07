@@ -1,5 +1,5 @@
 https://dsa-guru.com
-https://www.dsa-guru.com/about.html
+https://www.dsa-guru.com/DSAGuru.html
 https://dsa-guru.com/array
 https://dsa-guru.com/basics
 https://dsa-guru.com/binary_search
@@ -19,3 +19,6 @@ https://dsa-guru.com/strings_part_1
 https://dsa-guru.com/strings_part_2
 https://dsa-guru.com/tries
 https://dsa-guru.com/two_pointers
+https://www.dsa-guru.com/database_management_system
+https://www.dsa-guru.com/computer_network
+https://www.dsa-guru.com/operating_systems
